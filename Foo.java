@@ -1,5 +1,5 @@
 package com.security.copybara;
 
-interface Test {
+interface Foo {
   public void doSomething();
 }
