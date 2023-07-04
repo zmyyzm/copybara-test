@@ -4,6 +4,6 @@ interface Foo {
   public void doSomething();
 }
 
-interface Bar {
+interface FooBar {
   public void doSomething();
 }
